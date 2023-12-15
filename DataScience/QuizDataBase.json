@@ -358,6 +358,91 @@
         "d. Line Plot"
       ],
       "correct_option": "b"
+    },
+
+
+
+
+
+    {
+      "question": "In a scatter plot representing the relationship between the number of hours spent studying and the exam scores of 20 students, what is the maximum possible correlation coefficient (Pearson's r) value if there is a perfect linear relationship between the two variables?",
+      "options": ["a. 0", "b. 1", "c. -1", "d. 0.5"],
+      "correct_option": "b"
+    },
+    {
+      "question": "You have a dataset of 50 data points. When creating a histogram with 5 bins, how many data points should fall into each bin if the distribution is perfectly uniform (equal frequency in each bin)?",
+      "options": ["a. 10", "b. 20", "c. 15", "d. 5"],
+      "correct_option": "a"
+    },
+    {
+      "question": "You have a dataset with monthly temperatures (in degrees Celsius) for a year. The average monthly temperature is as follows:\n- January: 5°C\n- February: 8°C\n- March: 12°C\n- April: 16°C\n- May: 21°C\n- June: 25°C\n- July: 28°C\n- August: 26°C\n- September: 22°C\n- October: 16°C\n- November: 10°C\n- December: 6°C\nCalculate the overall average temperature for the year.",
+      "options": ["a. 18.5°C", "b. 16.25°C", "c. 20.5°C", "d. 22.5°C"],
+      "correct_option": "b"
+    },
+    {
+      "question": "In a bar plot representing the sales of five products, the sales values (in thousands of dollars) are as follows:\n- Product A: $12,000\n- Product B: $18,000\n- Product C: $9,000\n- Product D: $15,000\n- Product E: $20,000\nWhat is the total sales represented in the bar plot?",
+      "options": ["a. $74,000", "b. $74,500", "c. $64,000", "d. $50,000"],
+      "correct_option": "a"
+    },
+    {
+      "question": "In a density plot representing the distribution of test scores, the peak of the density curve is at 85. What does this indicate about the data?",
+      "options": ["a. Most test scores are 85.", "b. There are outliers in the data.", "c. The data is skewed to the right.", "d. The data is normally distributed."],
+      "correct_option": "a"
+    },
+
+
+
+
+    
+    {
+      "question": "What does the `rank()` method in pandas do?",
+      "options": ["a. It calculates the mean of a column.", "b. It counts the number of unique values in a Series.", "c. It assigns a rank to each element in a Series.", "d. It computes the standard deviation of a DataFrame."],
+      "correct_option": "c"
+    },
+    {
+      "question": "How can you select a single column from a DataFrame in pandas?",
+      "options": ["a. Using the `extract()` method.", "b. Using the `select()` method.", "c. Using square brackets or the dot notation.", "d. Using the `get_column()` method."],
+      "correct_option": "c"
+    },
+    {
+      "question": "What does the `apply()` method in pandas do?",
+      "options": ["a. It creates a new DataFrame with random values.", "b. It applies a function to each element or column of a DataFrame or Series.", "c. It sorts the data in a DataFrame.", "d. It computes the mean of a DataFrame."],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which method can be used to compute the mean of a numeric column in a DataFrame?",
+      "options": ["a. `average()`", "b. `calculate_mean()`", "c. `find_average()`", "d. `mean()`"],
+      "correct_option": "d"
+    },
+    {
+      "question": "How can you sort a DataFrame by the values in a specific column in descending order?",
+      "options": ["a. `sort_index()` with `ascending=True`", "b. `sort_values()` with `ascending=True`", "c. `sort_values()` with `ascending=False`", "d. `sort_index()` with `ascending=False`"],
+      "correct_option": "c"
+    },
+    {
+      "question": "What is the primary purpose of indexing in pandas?",
+      "options": ["a. To remove rows from a DataFrame.", "b. To perform mathematical operations on data.", "c. To rearrange the order of columns in a DataFrame.", "d. To label and access data efficiently in Series and DataFrame."],
+      "correct_option": "d"
+    },
+    {
+      "question": "What does skewness in a dataset indicate?",
+      "options": ["a. The symmetry of the data distribution.", "b. The asymmetry of the data distribution.", "c. The spread or dispersion of the data.", "d. The presence of outliers in the data."],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which method can be used to drop specific entries (rows) from a DataFrame in pandas?",
+      "options": ["a. `drop()`", "b. `discard()`", "c. `delete()`", "d. `remove()`"],
+      "correct_option": "a"
+    },
+    {
+      "question": "Which pandas function is used to transform values in a Series based on a provided mapping (dictionary or function)?",
+      "options": ["a. `alter()`", "b. `modify()`", "c. `map()`", "d. `transform()`"],
+      "correct_option": "c"
+    },
+    {
+      "question": "What is a Series in pandas?",
+      "options": ["a. A one-dimensional labeled array.", "b. A two-dimensional labeled array.", "c. A multi-dimensional labeled array.", "d. A three-dimensional labeled array."],
+      "correct_option": "a"
     }
 ]
   
