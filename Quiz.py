@@ -71,7 +71,7 @@ def next_question():
 # Create the main window
 root = tk.Tk()
 root.title("Quiz App")
-root.geometry("600x500")
+root.geometry("500x750")
 style = Style(theme="flatly")
 
 # Create a canvas to hold the widgets
