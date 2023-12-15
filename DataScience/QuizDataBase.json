@@ -393,7 +393,7 @@
 
 
 
-    
+
     {
       "question": "What does the `rank()` method in pandas do?",
       "options": ["a. It calculates the mean of a column.", "b. It counts the number of unique values in a Series.", "c. It assigns a rank to each element in a Series.", "d. It computes the standard deviation of a DataFrame."],
@@ -442,6 +442,306 @@
     {
       "question": "What is a Series in pandas?",
       "options": ["a. A one-dimensional labeled array.", "b. A two-dimensional labeled array.", "c. A multi-dimensional labeled array.", "d. A three-dimensional labeled array."],
+      "correct_option": "a"
+    },
+
+
+
+
+
+    {
+      "question": "How can you check if a specific value exists in a pandas Series?",
+      "options": ["a. Using the `has_value()` method.", "b. Using the `check_value()` method.", "c. Using the `contains()` method.", "d. Using the `isin()` method or boolean indexing."],
+      "correct_option": "d"
+    },
+    {
+      "question": "In pandas, how can you find the unique values in a Series?",
+      "options": ["a. Using the `get_unique()` function.", "b. Using the `unique()` method.", "c. Using the `count_values()` method.", "d. Using the `distinct()` method."],
+      "correct_option": "b"
+    },
+    {
+      "question": "Skewness in a dataset indicates:",
+      "options": ["a. The presence of outliers.", "b. The symmetry of the data distribution.", "c. The asymmetry of the data distribution.", "d. The spread or dispersion of data."],
+      "correct_option": "c"
+    },
+    {
+      "question": "To save a DataFrame to a CSV file in pandas, you would use which method?",
+      "options": ["a. `to_csv()`", "b. `write_to_csv()`", "c. `save_csv()`", "d. `export_csv()`"],
+      "correct_option": "a"
+    },
+    {
+      "question": "What does kurtosis measure in a data distribution?",
+      "options": ["a. The spread or dispersion of data.", "b. The tailness or peakedness of the distribution.", "c. The symmetry of the data.", "d. The presence of outliers."],
+      "correct_option": "b"
+    },
+    {
+      "question": "What does the mean of a dataset represent?",
+      "options": ["a. The presence of outliers in the data.", "b. The spread or dispersion of data.", "c. The asymmetry of the data distribution.", "d. The center or average value of data."],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following is a common delimiter used in CSV files?",
+      "options": ["a. Tab", "b. Space", "c. Comma", "d. Semicolon"],
+      "correct_option": "c"
+    },
+    {
+      "question": "Which pandas function is used to read data from a CSV file into a DataFrame?",
+      "options": ["a. `load_csv()`", "b. `load_data()`", "c. `import_file()'", "d. `read_csv()`"],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which pandas method returns a Series with counts of unique values in a DataFrame column?",
+      "options": ["a. `distinct_counts()`", "b. `unique_counts()`", "c. `count_unique()`", "d. `value_counts()`"],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which statistic measures the average distance of data points from the mean?",
+      "options": ["a. Kurtosis", "b. Median", "c. Standard Deviation", "d. Skewness"],
+      "correct_option": "c"
+    },
+
+
+
+
+
+    {
+      "question": "How can you remove duplicate rows from a DataFrame in pandas?",
+      "options": ["a. Using the `drop_duplicates()` method.", "b. Using the `delete_duplicates()` method.", "c. Using the `remove_duplicates()` method.", "d. Using the `deduplicate()` method."],
+      "correct_option": "a"
+    },
+    {
+      "question": "How can you replace specific values in a pandas DataFrame or Series?",
+      "options": ["a. Using the `replace()` method.", "b. Using the `substitute()` method.", "c. Using the `replace_values()` method.", "d. Using the `apply_replacement()` method."],
+      "correct_option": "a"
+    },
+    {
+      "question": "In pandas, what is the most common representation for missing data?",
+      "options": ["a. NaN (Not a Number)", "b. Missing", "c. None", "d. Null"],
+      "correct_option": "a"
+    },
+    {
+      "question": "In pandas, what is the purpose of the `groupby()` function?",
+      "options": ["a. To group data based on a column or set of columns for aggregation.", "b. To create a new DataFrame from scratch.", "c. To merge two DataFrames.", "d. To apply a function to each element in a Series."],
+      "correct_option": "a"
+    },
+    {
+      "question": "In pandas, what method can be used to apply a custom function to every element in a DataFrame or Series?",
+      "options": ["a. `map()`", "b. `custom_apply()`", "c. `apply_function()`", "d. `transform()`"],
+      "correct_option": "a"
+    },
+    {
+      "question": "What pandas method is used to fill missing values in a DataFrame with a specified value?",
+      "options": ["a. `missing_fill()`", "b. `replace_missing()`", "c. `fill_missing()`", "d. `fillna()`"],
+      "correct_option": "d"
+    },
+    {
+      "question": "What statistical technique can be used to detect outliers in a numerical dataset?",
+      "options": ["a. Standardization", "b. Median Absolute Deviation (MAD)", "c. All of the above", "d. Z-score"],
+      "correct_option": "c"
+    },
+    {
+      "question": "When filtering outliers using the Z-score method, what is a common threshold for identifying outliers?",
+      "options": ["a. Z-score greater than 3.0", "b. Z-score greater than 1.0", "c. Z-score greater than 0.5", "d. Z-score greater than 3.0"],
+      "correct_option": "a"
+    },
+    {
+      "question": "When using the `map()` function in pandas, what is typically used to define the mapping?",
+      "options": ["a. A list", "b. A lambda function", "c. A for loop", "d. A dictionary"],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which pandas method is used to check for missing values in a DataFrame?",
+      "options": ["a. `find_nan()`", "b. `check_missing()`", "c. `missing_values()`", "d. `isna()`"],
+      "correct_option": "d"
+    },
+
+
+
+
+
+    {
+      "question": "Which method in pandas can be used to replace values based on a condition in a DataFrame or Series?",
+      "options": ["a. `replace()`", "b. `apply_replace()`", "c. `swap()`", "d. `conditional_replace()`"],
+      "correct_option": "a"
+    },
+    {
+      "question": "When using the `map()` function in pandas, what happens if the mapping does not have a value for a particular element?",
+      "options": ["a. An error is raised.", "b. The element is replaced with a NaN (missing) value.", "c. The mapping is ignored.", "d. The element remains unchanged."],
+      "correct_option": "b"
+    },
+    {
+      "question": "In pandas, what method can be used to remove rows with any missing values from a DataFrame?",
+      "options": ["a. `dropna()`", "b. `deletemissing()`", "c. `clean()`", "d. `removena()`"],
+      "correct_option": "a"
+    },
+    {
+      "question": "What does the `agg()` function in pandas allow you to do?",
+      "options": ["a. Perform aggregation operations on multiple columns simultaneously.", "b. Apply a custom function to a single column.", "c. Calculate the average of a DataFrame.", "d. Group data by a specific column."],
+      "correct_option": "a"
+    },
+    {
+      "question": "When removing duplicate rows from a DataFrame, which rows are retained by default?",
+      "options": ["a. The last occurrence of each duplicate.", "b. The first occurrence of each duplicate.", "c. All occurrences of duplicates.", "d. None of the duplicates."],
+      "correct_option": "b"
+    },
+    {
+      "question": "In pandas, what is the purpose of the `pivot_table()` function?",
+      "options": ["a. To reshape a DataFrame by converting columns into rows.", "b. To calculate the mean of a DataFrame.", "c. To delete rows with missing values.", "d. To group data and perform aggregation on numeric columns."],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following methods is used to fill missing values in a DataFrame with the mean of the column?",
+      "options": ["a. `mean_fill()`", "b. `replace_mean()`", "c. `fillna_mean()`", "d. `fillna()`"],
+      "correct_option": "d"
+    },
+    {
+      "question": "In pandas, what is the purpose of the `applymap()` function?",
+      "options": ["a. To apply a function to each row in a DataFrame.", "b. To apply a function to each element in a Series.", "c. To apply a function to each element in a DataFrame.", "d. To apply a function to each column in a DataFrame."],
+      "correct_option": "c"
+    },
+    {
+      "question": "When filtering outliers using the IQR method, what is typically used as a threshold for identifying outliers?",
+      "options": ["a. Values above the median", "b. Values below Q1 - 1.5 * IQR", "c. Values above Q3 + 1.5 * IQR", "d. Values within Q1 - 1.5 * IQR to Q3 + 1.5 * IQR"],
+      "correct_option": "d"
+    },
+    {
+      "question": "What is the purpose of the IQR (Interquartile Range) method in outlier detection?",
+      "options": ["a. To identify values that are below the lower quartile.", "b. To calculate the median of the dataset.", "c. To identify values that are outside a defined range.", "d. To calculate the standard deviation of the dataset."],
+      "correct_option": "c"
+    },
+
+
+
+
+
+    {
+      "question": "How does Multiple Linear Regression differ from Simple Linear Regression?",
+      "options": ["a. Multiple Linear Regression can only predict binary outcomes.", "b. Multiple Linear Regression can handle multiple independent variables.", "c. Multiple Linear Regression is less accurate.", "d. Multiple Linear Regression can handle only categorical variables."],
+      "correct_option": "b"
+    },
+    {
+      "question": "In Simple Linear Regression, what is the dependent variable?",
+      "options": ["a. The predictor variable.", "b. The constant term.", "c. The error term.", "d. The variable being predicted or estimated."],
+      "correct_option": "d"
+    },
+    {
+      "question": "What is Multiple Linear Regression?",
+      "options": ["a. A regression model with multiple dependent variables.", "b. A regression model with multiple independent variables.", "c. A regression model with a single independent variable.", "d. A regression model with a single dependent variable."],
+      "correct_option": "b"
+    },
+    {
+      "question": "What is Supervised Learning?",
+      "options": ["a. Learning from semi-structured data.", "b. Learning without any guidance.", "c. Learning with labeled data and making predictions on new, unseen data.", "d. Learning from reinforcement signals."],
+      "correct_option": "c"
+    },
+    {
+      "question": "What does a correlation matrix help us understand?",
+      "options": ["a. The presence of multicollinearity.", "b. The accuracy of a regression model.", "c. The number of significant features.", "d. The strength and direction of linear relationships between variables."],
+      "correct_option": "d"
+    },
+    {
+      "question": "What is the goal of Simple Linear Regression?",
+      "options": ["a. To find the correlation coefficient.", "b. To find a straight line that best fits the data.", "c. To perform clustering.", "d. To predict a categorical outcome."],
+      "correct_option": "b"
+    },
+    {
+      "question": "In Polynomial Regression, what is the key difference compared to Simple Linear Regression?",
+      "options": ["a. It can capture nonlinear relationships by introducing polynomial terms.", "b. It cannot be used for prediction.", "c. It can only fit linear relationships.", "d. It can handle multiple dependent variables."],
+      "correct_option": "a"
+    },
+    {
+      "question": "What is the primary advantage of using Polynomial Regression over Simple Linear Regression?",
+      "options": ["a. Ability to handle categorical variables.", "b. Simplicity in model interpretation.", "c. Ability to capture more complex, nonlinear relationships.", "d. Faster computation."],
+      "correct_option": "c"
+    },
+    {
+      "question": "Unsupervised Learning is typically used for:",
+      "options": ["a. Clustering and dimensionality reduction tasks.", "b. Regressions tasks.", "c. Predicting continuous values.", "d. Classification tasks."],
+      "correct_option": "a"
+    },
+    {
+      "question": "What is the purpose of the F-statistic in Multiple Linear Regression?",
+      "options": ["a. To calculate the correlation matrix.", "b. To test the overall significance of the model.", "c. To measure the strength of the linear relationship.", "d. To identify outliers."],
+      "correct_option": "b"
+    },
+
+
+
+
+
+    {
+      "question": "When performing polynomial regression, what does increasing the degree of the polynomial typically result in?",
+      "options": ["a. Decreased model flexibility.", "b. Overfitting the data.", "c. Improved model simplicity.", "d. Decreased model complexity."],
+      "correct_option": "b"
+    },
+    {
+      "question": "In a Multiple Linear Regression model, if the coefficient of determination (R-squared) is 0.85, what percentage of the variance in the dependent variable is explained by the independent variables?",
+      "options": ["a. 42.5%", "b. Cannot be determined", "c. 85%", "d. 98%"],
+      "correct_option": "c"
+    },
+    {
+      "question": "In a Polynomial Regression model of degree 2, if the equation of the regression line is given as `y = 2x^2 + 3x + 1`, what is the predicted value of `y` when `x` is 4?",
+      "options": ["a. 41", "b. 39", "c. None", "d. 31"],
+      "correct_option": "a"
+    },
+    {
+      "question": "What is the primary goal of regression analysis?",
+      "options": ["a. To classify data into different categories.", "b. To summarize data using descriptive statistics.", "c. To predict the relationship between independent and dependent variables.", "d. To test the equality of means in different groups."],
+      "correct_option": "c"
+    },
+    {
+      "question": "What is the purpose of residual analysis in regression?",
+      "options": ["a. To identify outliers and assess the model's assumptions.", "b. To calculate the coefficient of determination (R-squared).", "c. To estimate the model's parameters.", "d. To compute the p-value for the model."],
+      "correct_option": "a"
+    },
+    {
+      "question": "In simple linear regression, if the correlation coefficient (r) between the independent and dependent variables is -0.8, what does this indicate about the relationship?",
+      "options": ["a. No relationship.", "b. Perfect relationship.", "c. Strong positive relationship.", "d. Strong negative relationship."],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which type of regression is most suitable for handling multicollinearity among independent variables?",
+      "options": ["a. Logistic Regression.", "b. Linear Regression.", "c. Polynomial Regression.", "d. Lasso Regression."],
+      "correct_option": "d"
+    },
+    {
+      "question": "If the Mean Absolute Error (MAE) for a regression model is 5, and the Mean Squared Error (MSE) is 25, what is the Root Mean Squared Error (RMSE)?",
+      "options": ["a. 1", "b. 25", "c. None", "d. 5"],
+      "correct_option": "d"
+    },
+    {
+      "question": "In a Polynomial Regression model of degree 3, if the equation of the regression line is given as `y = 3x^3 - 5x^2 + 2x + 1`, what is the coefficient of the `x^2` term?",
+      "options": ["a. 5", "b. -0.6", "c. 0.6", "d. -5"],
+      "correct_option": "d"
+    },
+    {
+      "question": "In logistic regression, what is the dependent variable typically representing?",
+      "options": ["a. A continuous numeric value.", "b. A count of occurrences.", "c. A binary outcome or category."],
+      "correct_option": "c"
+    },
+    {
+      "question": "In Simple Linear Regression, if the equation of the regression line is given as `y = 2x + 3`, what is the predicted value of `y` when `x` is 5?",
+      "options": ["a. None", "b. 13", "c. 12", "d. 16"],
+      "correct_option": "b"
+    },
+    {
+      "question": "Given a Multiple Linear Regression model with three independent variables: `X1 = 4`, `X2 = 7`, and `X3 = 10`, and the coefficients: `β1 = 2`, `β2 = 3`, and `β3 = 1`, calculate the predicted value of the dependent variable `Y`.",
+      "options": ["a. 27", "b. 31", "c. 29", "d. 23"],
+      "correct_option": "c"
+    },
+    {
+      "question": "You have a dataset with three variables: `X`, `Y`, and `Z`. The correlation coefficient between `X` and `Y` is -0.6, and between `Y` and `Z` is 0.8. What is the correlation coefficient between `X` and `Z`?",
+      "options": ["a. -0.48", "b. None", "c. -1.33", "d. -0.75"],
+      "correct_option": "a"
+    },
+    {
+      "question": "Which of the following is NOT a common assumption of linear regression?",
+      "options": ["a. Linearity.", "b. Normality of residuals.", "c. Multicollinearity.", "d. Independence of residuals."],
+      "correct_option": "c"
+    },
+    {
+      "question": "Which of the following metrics is used to evaluate the goodness of fit of a regression model?",
+      "options": ["a. Mean Absolute Error (MAE).", "b. Confusion Matrix.", "c. Odds Ratio.", "d. Precision."],
       "correct_option": "a"
     }
 ]

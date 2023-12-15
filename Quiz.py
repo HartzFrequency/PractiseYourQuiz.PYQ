@@ -22,6 +22,10 @@ def show_question():
     feedback_label.config(text="")
     next_btn.config(state="disabled")
 
+    # Update the canvas scroll region
+    frame.update_idletasks()
+    canvas.configure(scrollregion=canvas.bbox("all"))
+
 # Function to check the selected answer and provide feedback
 def check_answer(choice):
     # Get the current question from the quiz_data list
@@ -46,6 +50,10 @@ def check_answer(choice):
         button.config(state="disabled")
     next_btn.config(state="normal")
 
+    # Update the canvas scroll region
+    frame.update_idletasks()
+    canvas.configure(scrollregion=canvas.bbox("all"))
+
 # Function to move to the next question
 def next_question():
     global current_question
@@ -63,8 +71,25 @@ def next_question():
 # Create the main window
 root = tk.Tk()
 root.title("Quiz App")
-root.geometry("500x600")
+root.geometry("600x500")
 style = Style(theme="flatly")
+
+# Create a canvas to hold the widgets
+canvas = tk.Canvas(root)
+canvas.pack(side="left", fill="both", expand=True)
+
+# Create a vertical scrollbar
+scrollbar = ttk.Scrollbar(root, command=canvas.yview)
+scrollbar.pack(side="right", fill="y")
+
+# Configure the canvas to use the scrollbar
+canvas.configure(yscrollcommand=scrollbar.set)
+
+# Create a frame to hold the widgets inside the canvas
+frame = ttk.Frame(canvas)
+
+# Add the frame to the canvas
+canvas.create_window((0, 0), window=frame, anchor="center")
 
 # Configure the font size for the question and choice buttons
 style.configure("TLabel", font=("Helvetica", 20))
@@ -72,7 +97,7 @@ style.configure("TButton", font=("Helvetica", 16))
 
 # Create the question label
 qs_label = ttk.Label(
-    root,
+    frame,
     anchor="center",
     wraplength=500,
     padding=10
@@ -83,7 +108,7 @@ qs_label.pack(pady=10)
 choice_btns = []
 for i in range(4):
     button = ttk.Button(
-        root,
+        frame,
         command=lambda i=i: check_answer(i)
     )
     button.pack(pady=5)
@@ -91,7 +116,7 @@ for i in range(4):
 
 # Create the feedback label
 feedback_label = ttk.Label(
-    root,
+    frame,
     anchor="center",
     padding=10
 )
@@ -102,7 +127,7 @@ score = 0
 
 # Create the score label
 score_label = ttk.Label(
-    root,
+    frame,
     text="Score: 0/{}".format(len(quiz_data)),
     anchor="center",
     padding=10
@@ -111,7 +136,7 @@ score_label.pack(pady=10)
 
 # Create the next button
 next_btn = ttk.Button(
-    root,
+    frame,
     text="Next",
     command=next_question,
     state="disabled"
@@ -123,6 +148,10 @@ current_question = 0
 
 # Show the first question
 show_question()
+
+# Update the canvas scroll region
+frame.update_idletasks()
+canvas.configure(scrollregion=canvas.bbox("all"))
 
 # Start the main event loop
 root.mainloop()
