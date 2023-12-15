@@ -1,0 +1,363 @@
+[
+    {
+      "question": "Which skill is essential for a Data Scientist's role?",
+      "options": [
+        "a. Calligraphy",
+        "b. Singing opera",
+        "c. Playing musical instruments",
+        "d. Programming and statistical analysis"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "What is Data Science?",
+      "options": [
+        "a. The analysis of historical artifacts",
+        "b. The exploration of underwater ecosystems",
+        "c. The study of ancient texts",
+        "d. The extraction of knowledge from data"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following is an application of Data Science?",
+      "options": [
+        "a. Data entry",
+        "b. Predicting stock prices",
+        "c. Baking bread",
+        "d. Flower arrangement"
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which field does Data Science have applications in?",
+      "options": [
+        "a. Ancient poetry",
+        "b. Competitive eating",
+        "c. Cloud watching",
+        "d. Medicine"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "What does Data Science involve?",
+      "options": [
+        "a. Predicting the future with certainty",
+        "b. Controlling the weather",
+        "c. Extracting insights from data",
+        "d. Reading minds"
+      ],
+      "correct_option": "c"
+    },
+    {
+      "question": "What is the significance of the Data Analytics Life Cycle?",
+      "options": [
+        "a. It helps in organizing office supplies",
+        "b. It provides a framework for conducting data analysis",
+        "c. It guides the process of cleaning physical spaces",
+        "d. It dictates the design of web applications"
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which of the following best defines Data Science?",
+      "options": [
+        "a. Writing computer programs",
+        "b. Conducting social experiments",
+        "c. Creating art using digital tools",
+        "d. Analyzing and interpreting complex data"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following is NOT a stage in the Data Analytics Life Cycle?",
+      "options": [
+        "a. Data Interpretation",
+        "b. Data Collection",
+        "c. Data Cleaning",
+        "d. Data Exploration"
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "What is the primary role of a Data Scientist?",
+      "options": [
+        "a. Extracting insights from data to inform decision-making",
+        "b. Extracting, transforming, and loading data",
+        "c. Designing user interfaces",
+        "d. Performing routine administrative tasks"
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "What is one of the impacts of Data Science on industries?",
+      "options": [
+        "a. Limited use of digital tools",
+        "b. Improved decision-making through data-driven insights",
+        "c. Decreased need for decision-making",
+        "d. Reduced demand for computers"
+      ],
+      "correct_option": "b"
+    },
+
+
+
+
+
+    {
+      "question": "Which method is used to add an element to the end of a list in Python?",
+      "options": [
+        "a. `extend()`",
+        "b. `insert()`",
+        "c. `append()`",
+        "d. `add()`"
+      ],
+      "correct_option": "c"
+    },
+    {
+      "question": "What is Python primarily used for?",
+      "options": [
+        "a. Analyzing data",
+        "b. Building rockets",
+        "c. Baking cookies",
+        "d. Mixing paints"
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "What is the method used to convert a string to lowercase in Python?",
+      "options": [
+        "a. `convert_lower()`",
+        "b. `lower()`",
+        "c. `casefold()`",
+        "d. `to_lower()`"
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "What method can be used to find the length of a list in Python?",
+      "options": [
+        "a. `count()`",
+        "b. `size()`",
+        "c. `length()`",
+        "d. `len()`"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which symbol is used to write single-line comments in Python?",
+      "options": [
+        "a. /* */",
+        "b. //",
+        "c. --",
+        "d. ##"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following is a valid Python identifier?",
+      "options": [
+        "a. 123variable",
+        "b. return",
+        "c. $price",
+        "d. my-variable"
+      ],
+      "correct_option": "c"
+    },
+    {
+      "question": "Which of the following is NOT an essential Python library for data analysis?",
+      "options": [
+        "a. NumPy",
+        "b. TensorFlow",
+        "c. Matplotlib",
+        "d. JavaLib"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which term is used for words that have special meaning in Python and cannot be used as identifiers?",
+      "options": [
+        "a. Homonyms",
+        "b. Synonyms",
+        "c. Keywords",
+        "d. Nicknames"
+      ],
+      "correct_option": "c"
+    },
+    {
+      "question": "What is the purpose of indentation in Python?",
+      "options": [
+        "a. Aligning code to the right side of the screen",
+        "b. Enhancing readability and indicating block structure",
+        "c. Adding decorative patterns to code",
+        "d. Creating ASCII art"
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which of the following is NOT a built-in data type in Python?",
+      "options": [
+        "a. String",
+        "b. Integer",
+        "c. List",
+        "d. Stack"
+      ],
+      "correct_option": "d"
+    },
+
+
+
+
+    
+    {
+      "question": "What is the primary purpose of a scatter plot?",
+      "options": [
+        "a. To visualize the distribution of a single continuous variable",
+        "b. To show the relationship between two continuous variables",
+        "c. To compare categories using discrete data",
+        "d. To display the distribution of a single categorical variable"
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which type of plot is suitable for visualizing trends or changes in data over time or a continuous sequence?",
+      "options": [
+        "a. Bar Plot",
+        "b. Line Plot",
+        "c. Scatter Plot",
+        "d. Histogram"
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "Which of the following plots is used to estimate the probability density function of a continuous variable?",
+      "options": [
+        "a. Line Plot",
+        "b. Scatter Plot",
+        "c. Density Plot",
+        "d. Bar Plot"
+      ],
+      "correct_option": "c"
+    },
+    {
+      "question": "Density plots are particularly useful when you want to:",
+      "options": [
+        "a. Estimate the probability density function of a continuous variable.",
+        "b. Compare the frequencies of different categories.",
+        "c. Visualize the distribution of a single continuous variable.",
+        "d. Show the relationship between two continuous variables."
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "In a line plot, what does the x-axis typically represent?",
+      "options": [
+        "a. Continuous values or a sequence",
+        "b. Nothing, as there is no x-axis in a line plot",
+        "c. Categories or groups",
+        "d. Frequency or counts"
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "What type of curve is typically used to represent the probability density function in a density plot?",
+      "options": [
+        "a. Gaussian (bell-shaped) curve",
+        "b. Straight line",
+        "c. Parabola",
+        "d. Exponential curve"
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "What does the height of a bar in a histogram represent?",
+      "options": [
+        "a. The category or label of the data point",
+        "b. The width of the bin",
+        "c. The continuous value of the data point",
+        "d. The frequency or count of data points in a bin"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following statements is true regarding the difference between bar plots and histograms?",
+      "options": [
+        "a. Histograms can be used for both categorical and continuous data, while bar plots are only for continuous data.",
+        "b. Both bar plots and histograms are exclusively for categorical data.",
+        "c. Bar plots can be used for both categorical and continuous data, while histograms are only for continuous data.",
+        "d. There is no difference between bar plots and histograms; they are the same type of plot."
+      ],
+      "correct_option": "c"
+    },
+    {
+      "question": "When should you use a bar plot?",
+      "options": [
+        "a. To display the relationship between two continuous variables.",
+        "b. To compare categories using discrete data.",
+        "c. To visualize the distribution of a single categorical variable.",
+        "d. To show the distribution of a single continuous variable."
+      ],
+      "correct_option": "b"
+    },
+    {
+      "question": "What type of plot is best used to visualize the relationship between two continuous variables over a continuous range of values?",
+      "options": [
+        "a. Scatter Plot",
+        "b. Bar Plot",
+        "c. Histogram",
+        "d. Line Plot"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "Which of the following bar plot types is used to compare the distribution of a single categorical variable across different categories?",
+      "options": [
+        "a. Grouped Bar Plot",
+        "b. 3D Bar Plot",
+        "c. Stacked Bar Plot",
+        "d. Clustered Bar Plot"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "When should you use a scatter plot?",
+      "options": [
+        "a. To show the relationship between two continuous variables.",
+        "b. To compare the frequencies of different categories.",
+        "c. To visualize the distribution of a single categorical variable.",
+        "d. To display the distribution of a single continuous variable."
+      ],
+      "correct_option": "a"
+    },
+    {
+      "question": "In a line plot, what does the line represent?",
+      "options": [
+        "a. The median of the data points in each category",
+        "b. The mean of the data points in each category",
+        "c. The mode of the data points in each category",
+        "d. The trend or connection between data points over a sequence"
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "What is the key difference between a bar plot and a histogram?",
+      "options": [
+        "a. There is no difference; both terms are used interchangeably.",
+        "b. Bar plots show the distribution of a single variable, while histograms compare multiple variables.",
+        "c. Bar plots are used for continuous data, while histograms are used for categorical data.",
+        "d. Bar plots use bars to represent categories, while histograms use bars to represent the frequency of data within bins."
+      ],
+      "correct_option": "d"
+    },
+    {
+      "question": "What type of plot is suitable for visualizing the distribution of a single continuous variable?",
+      "options": [
+        "a. Bar Plot",
+        "b. Histogram",
+        "c. Scatter Plot",
+        "d. Line Plot"
+      ],
+      "correct_option": "b"
+    }
+]
+  
