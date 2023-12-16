@@ -1,295 +1,353 @@
 [
-    {
-      "question": "Which skill is essential for a Data Scientist's role?",
-      "options": [
-        "a. Calligraphy",
-        "b. Singing opera",
-        "c. Playing musical instruments",
-        "d. Programming and statistical analysis"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "What is Data Science?",
-      "options": [
-        "a. The analysis of historical artifacts",
-        "b. The exploration of underwater ecosystems",
-        "c. The study of ancient texts",
-        "d. The extraction of knowledge from data"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "Which of the following is an application of Data Science?",
-      "options": [
-        "a. Data entry",
-        "b. Predicting stock prices",
-        "c. Baking bread",
-        "d. Flower arrangement"
-      ],
-      "correct_option": "b"
-    },
-    {
-      "question": "Which field does Data Science have applications in?",
-      "options": [
-        "a. Ancient poetry",
-        "b. Competitive eating",
-        "c. Cloud watching",
-        "d. Medicine"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "What does Data Science involve?",
-      "options": [
-        "a. Predicting the future with certainty",
-        "b. Controlling the weather",
-        "c. Extracting insights from data",
-        "d. Reading minds"
-      ],
-      "correct_option": "c"
-    },
-    {
-      "question": "What is the significance of the Data Analytics Life Cycle?",
-      "options": [
-        "a. It helps in organizing office supplies",
-        "b. It provides a framework for conducting data analysis",
-        "c. It guides the process of cleaning physical spaces",
-        "d. It dictates the design of web applications"
-      ],
-      "correct_option": "b"
-    },
-    {
-      "question": "Which of the following best defines Data Science?",
-      "options": [
-        "a. Writing computer programs",
-        "b. Conducting social experiments",
-        "c. Creating art using digital tools",
-        "d. Analyzing and interpreting complex data"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "Which of the following is NOT a stage in the Data Analytics Life Cycle?",
-      "options": [
-        "a. Data Interpretation",
-        "b. Data Collection",
-        "c. Data Cleaning",
-        "d. Data Exploration"
-      ],
-      "correct_option": "a"
-    },
-    {
-      "question": "What is the primary role of a Data Scientist?",
-      "options": [
-        "a. Extracting insights from data to inform decision-making",
-        "b. Extracting, transforming, and loading data",
-        "c. Designing user interfaces",
-        "d. Performing routine administrative tasks"
-      ],
-      "correct_option": "a"
-    },
-    {
-      "question": "What is one of the impacts of Data Science on industries?",
-      "options": [
-        "a. Limited use of digital tools",
-        "b. Improved decision-making through data-driven insights",
-        "c. Decreased need for decision-making",
-        "d. Reduced demand for computers"
-      ],
-      "correct_option": "b"
-    },
+  {
+    "quiz_no": 1,
+    "question_no": 1,
+    "question": "Which skill is essential for a Data Scientist's role?",
+    "options": [
+      "a. Calligraphy",
+      "b. Singing opera",
+      "c. Playing musical instruments",
+      "d. Programming and statistical analysis"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 2,
+    "question": "What is Data Science?",
+    "options": [
+      "a. The analysis of historical artifacts",
+      "b. The exploration of underwater ecosystems",
+      "c. The study of ancient texts",
+      "d. The extraction of knowledge from data"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 3,
+    "question": "Which of the following is an application of Data Science?",
+    "options": [
+      "a. Data entry",
+      "b. Predicting stock prices",
+      "c. Baking bread",
+      "d. Flower arrangement"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 4,
+    "question": "Which field does Data Science have applications in?",
+    "options": [
+      "a. Ancient poetry",
+      "b. Competitive eating",
+      "c. Cloud watching",
+      "d. Medicine"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 5,
+    "question": "What does Data Science involve?",
+    "options": [
+      "a. Predicting the future with certainty",
+      "b. Controlling the weather",
+      "c. Extracting insights from data",
+      "d. Reading minds"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 6,
+    "question": "What is the significance of the Data Analytics Life Cycle?",
+    "options": [
+      "a. It helps in organizing office supplies",
+      "b. It provides a framework for conducting data analysis",
+      "c. It guides the process of cleaning physical spaces",
+      "d. It dictates the design of web applications"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 7,
+    "question": "Which of the following best defines Data Science?",
+    "options": [
+      "a. Writing computer programs",
+      "b. Conducting social experiments",
+      "c. Creating art using digital tools",
+      "d. Analyzing and interpreting complex data"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 8,
+    "question": "Which of the following is NOT a stage in the Data Analytics Life Cycle?",
+    "options": [
+      "a. Data Interpretation",
+      "b. Data Collection",
+      "c. Data Cleaning",
+      "d. Data Exploration"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 9,
+    "question": "What is the primary role of a Data Scientist?",
+    "options": [
+      "a. Extracting insights from data to inform decision-making",
+      "b. Extracting, transforming, and loading data",
+      "c. Designing user interfaces",
+      "d. Performing routine administrative tasks"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "quiz_no": 1,
+    "question_no": 10,
+    "question": "What is one of the impacts of Data Science on industries?",
+    "options": [
+      "a. Limited use of digital tools",
+      "b. Improved decision-making through data-driven insights",
+      "c. Decreased need for decision-making",
+      "d. Reduced demand for computers"
+    ],
+    "correct_option": "b"
+  },
 
 
 
 
 
-    {
-      "question": "Which method is used to add an element to the end of a list in Python?",
-      "options": [
-        "a. `extend()`",
-        "b. `insert()`",
-        "c. `append()`",
-        "d. `add()`"
-      ],
-      "correct_option": "c"
-    },
-    {
-      "question": "What is Python primarily used for?",
-      "options": [
-        "a. Analyzing data",
-        "b. Building rockets",
-        "c. Baking cookies",
-        "d. Mixing paints"
-      ],
-      "correct_option": "a"
-    },
-    {
-      "question": "What is the method used to convert a string to lowercase in Python?",
-      "options": [
-        "a. `convert_lower()`",
-        "b. `lower()`",
-        "c. `casefold()`",
-        "d. `to_lower()`"
-      ],
-      "correct_option": "b"
-    },
-    {
-      "question": "What method can be used to find the length of a list in Python?",
-      "options": [
-        "a. `count()`",
-        "b. `size()`",
-        "c. `length()`",
-        "d. `len()`"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "Which symbol is used to write single-line comments in Python?",
-      "options": [
-        "a. /* */",
-        "b. //",
-        "c. --",
-        "d. ##"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "Which of the following is a valid Python identifier?",
-      "options": [
-        "a. 123variable",
-        "b. return",
-        "c. $price",
-        "d. my-variable"
-      ],
-      "correct_option": "c"
-    },
-    {
-      "question": "Which of the following is NOT an essential Python library for data analysis?",
-      "options": [
-        "a. NumPy",
-        "b. TensorFlow",
-        "c. Matplotlib",
-        "d. JavaLib"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "Which term is used for words that have special meaning in Python and cannot be used as identifiers?",
-      "options": [
-        "a. Homonyms",
-        "b. Synonyms",
-        "c. Keywords",
-        "d. Nicknames"
-      ],
-      "correct_option": "c"
-    },
-    {
-      "question": "What is the purpose of indentation in Python?",
-      "options": [
-        "a. Aligning code to the right side of the screen",
-        "b. Enhancing readability and indicating block structure",
-        "c. Adding decorative patterns to code",
-        "d. Creating ASCII art"
-      ],
-      "correct_option": "b"
-    },
-    {
-      "question": "Which of the following is NOT a built-in data type in Python?",
-      "options": [
-        "a. String",
-        "b. Integer",
-        "c. List",
-        "d. Stack"
-      ],
-      "correct_option": "d"
-    },
+  {
+    "quiz_no": 2,
+    "question_no": 1,
+    "question": "Which method is used to add an element to the end of a list in Python?",
+    "options": [
+      "a. `extend()`",
+      "b. `insert()`",
+      "c. `append()`",
+      "d. `add()`"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 2,
+    "question": "What is Python primarily used for?",
+    "options": [
+      "a. Analyzing data",
+      "b. Building rockets",
+      "c. Baking cookies",
+      "d. Mixing paints"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 3,
+    "question": "What is the method used to convert a string to lowercase in Python?",
+    "options": [
+      "a. `convert_lower()`",
+      "b. `lower()`",
+      "c. `casefold()`",
+      "d. `to_lower()`"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 4,
+    "question": "What method can be used to find the length of a list in Python?",
+    "options": [
+      "a. `count()`",
+      "b. `size()`",
+      "c. `length()`",
+      "d. `len()`"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 5,
+    "question": "Which symbol is used to write single-line comments in Python?",
+    "options": [
+      "a. /* */",
+      "b. //",
+      "c. --",
+      "d. ##"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 6,
+    "question": "Which of the following is a valid Python identifier?",
+    "options": [
+      "a. 123variable",
+      "b. return",
+      "c. $price",
+      "d. my-variable"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 7,
+    "question": "Which of the following is NOT an essential Python library for data analysis?",
+    "options": [
+      "a. NumPy",
+      "b. TensorFlow",
+      "c. Matplotlib",
+      "d. JavaLib"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 8,
+    "question": "Which term is used for words that have special meaning in Python and cannot be used as identifiers?",
+    "options": [
+      "a. Homonyms",
+      "b. Synonyms",
+      "c. Keywords",
+      "d. Nicknames"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 9,
+    "question": "What is the purpose of indentation in Python?",
+    "options": [
+      "a. Aligning code to the right side of the screen",
+      "b. Enhancing readability and indicating block structure",
+      "c. Adding decorative patterns to code",
+      "d. Creating ASCII art"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "quiz_no": 2,
+    "question_no": 10,
+    "question": "Which of the following is NOT a built-in data type in Python?",
+    "options": [
+      "a. String",
+      "b. Integer",
+      "c. List",
+      "d. Stack"
+    ],
+    "correct_option": "d"
+  },
 
 
 
 
-    
+  
+  {
+    "quiz_no": 3,
+    "question_no": 1,
+    "question": "What is the primary purpose of a scatter plot?",
+    "options": [
+      "a. To visualize the distribution of a single continuous variable",
+      "b. To show the relationship between two continuous variables",
+      "c. To compare categories using discrete data",
+      "d. To display the distribution of a single categorical variable"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 2,
+    "question": "Which type of plot is suitable for visualizing trends or changes in data over time or a continuous sequence?",
+    "options": [
+      "a. Bar Plot",
+      "b. Line Plot",
+      "c. Scatter Plot",
+      "d. Histogram"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 3,
+    "question": "Which of the following plots is used to estimate the probability density function of a continuous variable?",
+    "options": [
+      "a. Line Plot",
+      "b. Scatter Plot",
+      "c. Density Plot",
+      "d. Bar Plot"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 4,
+    "question": "Density plots are particularly useful when you want to:",
+    "options": [
+      "a. Estimate the probability density function of a continuous variable.",
+      "b. Compare the frequencies of different categories.",
+      "c. Visualize the distribution of a single continuous variable.",
+      "d. Show the relationship between two continuous variables."
+    ],
+    "correct_option": "a"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 5,
+    "question": "In a line plot, what does the x-axis typically represent?",
+    "options": [
+      "a. Continuous values or a sequence",
+      "b. Nothing, as there is no x-axis in a line plot",
+      "c. Categories or groups",
+      "d. Frequency or counts"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 6,
+    "question": "What type of curve is typically used to represent the probability density function in a density plot?",
+    "options": [
+      "a. Gaussian (bell-shaped) curve",
+      "b. Straight line",
+      "c. Parabola",
+      "d. Exponential curve"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 7,
+    "question": "What does the height of a bar in a histogram represent?",
+    "options": [
+      "a. The category or label of the data point",
+      "b. The width of the bin",
+      "c. The continuous value of the data point",
+      "d. The frequency or count of data points in a bin"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "quiz_no": 3,
+    "question_no": 8,
+    "question": "Which of the following statements is true regarding the difference between bar plots and histograms?",
+    "options": [
+      "a. Histograms can be used for both categorical and continuous data, while bar plots are only for continuous data.",
+      "b. Both bar plots and histograms are exclusively for categorical data.",
+      "c. Bar plots can be used for both categorical and continuous data, while histograms are only for continuous data.",
+      "d. There is no difference between bar plots and histograms; they are the same type of plot."
+    ],
+    "correct_option": "c"
+  },
     {
-      "question": "What is the primary purpose of a scatter plot?",
-      "options": [
-        "a. To visualize the distribution of a single continuous variable",
-        "b. To show the relationship between two continuous variables",
-        "c. To compare categories using discrete data",
-        "d. To display the distribution of a single categorical variable"
-      ],
-      "correct_option": "b"
-    },
-    {
-      "question": "Which type of plot is suitable for visualizing trends or changes in data over time or a continuous sequence?",
-      "options": [
-        "a. Bar Plot",
-        "b. Line Plot",
-        "c. Scatter Plot",
-        "d. Histogram"
-      ],
-      "correct_option": "b"
-    },
-    {
-      "question": "Which of the following plots is used to estimate the probability density function of a continuous variable?",
-      "options": [
-        "a. Line Plot",
-        "b. Scatter Plot",
-        "c. Density Plot",
-        "d. Bar Plot"
-      ],
-      "correct_option": "c"
-    },
-    {
-      "question": "Density plots are particularly useful when you want to:",
-      "options": [
-        "a. Estimate the probability density function of a continuous variable.",
-        "b. Compare the frequencies of different categories.",
-        "c. Visualize the distribution of a single continuous variable.",
-        "d. Show the relationship between two continuous variables."
-      ],
-      "correct_option": "a"
-    },
-    {
-      "question": "In a line plot, what does the x-axis typically represent?",
-      "options": [
-        "a. Continuous values or a sequence",
-        "b. Nothing, as there is no x-axis in a line plot",
-        "c. Categories or groups",
-        "d. Frequency or counts"
-      ],
-      "correct_option": "a"
-    },
-    {
-      "question": "What type of curve is typically used to represent the probability density function in a density plot?",
-      "options": [
-        "a. Gaussian (bell-shaped) curve",
-        "b. Straight line",
-        "c. Parabola",
-        "d. Exponential curve"
-      ],
-      "correct_option": "a"
-    },
-    {
-      "question": "What does the height of a bar in a histogram represent?",
-      "options": [
-        "a. The category or label of the data point",
-        "b. The width of the bin",
-        "c. The continuous value of the data point",
-        "d. The frequency or count of data points in a bin"
-      ],
-      "correct_option": "d"
-    },
-    {
-      "question": "Which of the following statements is true regarding the difference between bar plots and histograms?",
-      "options": [
-        "a. Histograms can be used for both categorical and continuous data, while bar plots are only for continuous data.",
-        "b. Both bar plots and histograms are exclusively for categorical data.",
-        "c. Bar plots can be used for both categorical and continuous data, while histograms are only for continuous data.",
-        "d. There is no difference between bar plots and histograms; they are the same type of plot."
-      ],
-      "correct_option": "c"
-    },
-    {
+      "quiz_no": 3,
+      "question_no": 9,
       "question": "When should you use a bar plot?",
       "options": [
         "a. To display the relationship between two continuous variables.",
@@ -300,6 +358,8 @@
       "correct_option": "b"
     },
     {
+      "quiz_no": 3,
+      "question_no": 10,
       "question": "What type of plot is best used to visualize the relationship between two continuous variables over a continuous range of values?",
       "options": [
         "a. Scatter Plot",
@@ -310,6 +370,8 @@
       "correct_option": "d"
     },
     {
+      "quiz_no": 3,
+      "question_no": 11,
       "question": "Which of the following bar plot types is used to compare the distribution of a single categorical variable across different categories?",
       "options": [
         "a. Grouped Bar Plot",
@@ -320,6 +382,8 @@
       "correct_option": "d"
     },
     {
+      "quiz_no": 3,
+      "question_no": 12,
       "question": "When should you use a scatter plot?",
       "options": [
         "a. To show the relationship between two continuous variables.",
@@ -330,6 +394,8 @@
       "correct_option": "a"
     },
     {
+      "quiz_no": 3,
+      "question_no": 13,
       "question": "In a line plot, what does the line represent?",
       "options": [
         "a. The median of the data points in each category",
@@ -340,6 +406,8 @@
       "correct_option": "d"
     },
     {
+      "quiz_no": 3,
+      "question_no": 14,
       "question": "What is the key difference between a bar plot and a histogram?",
       "options": [
         "a. There is no difference; both terms are used interchangeably.",
@@ -350,6 +418,8 @@
       "correct_option": "d"
     },
     {
+      "quiz_no": 3,
+      "question_no": 15,
       "question": "What type of plot is suitable for visualizing the distribution of a single continuous variable?",
       "options": [
         "a. Bar Plot",
@@ -365,26 +435,36 @@
 
 
     {
+      "quiz_no": 4,
+      "question_no": 1,
       "question": "In a scatter plot representing the relationship between the number of hours spent studying and the exam scores of 20 students, what is the maximum possible correlation coefficient (Pearson's r) value if there is a perfect linear relationship between the two variables?",
       "options": ["a. 0", "b. 1", "c. -1", "d. 0.5"],
       "correct_option": "b"
     },
     {
+      "quiz_no": 4,
+      "question_no": 2,
       "question": "You have a dataset of 50 data points. When creating a histogram with 5 bins, how many data points should fall into each bin if the distribution is perfectly uniform (equal frequency in each bin)?",
       "options": ["a. 10", "b. 20", "c. 15", "d. 5"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 4,
+      "question_no": 3,
       "question": "You have a dataset with monthly temperatures (in degrees Celsius) for a year. The average monthly temperature is as follows:\n- January: 5°C\n- February: 8°C\n- March: 12°C\n- April: 16°C\n- May: 21°C\n- June: 25°C\n- July: 28°C\n- August: 26°C\n- September: 22°C\n- October: 16°C\n- November: 10°C\n- December: 6°C\nCalculate the overall average temperature for the year.",
       "options": ["a. 18.5°C", "b. 16.25°C", "c. 20.5°C", "d. 22.5°C"],
       "correct_option": "b"
     },
     {
+      "quiz_no": 4,
+      "question_no": 4,
       "question": "In a bar plot representing the sales of five products, the sales values (in thousands of dollars) are as follows:\n- Product A: $12,000\n- Product B: $18,000\n- Product C: $9,000\n- Product D: $15,000\n- Product E: $20,000\nWhat is the total sales represented in the bar plot?",
       "options": ["a. $74,000", "b. $74,500", "c. $64,000", "d. $50,000"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 4,
+      "question_no": 5,
       "question": "In a density plot representing the distribution of test scores, the peak of the density curve is at 85. What does this indicate about the data?",
       "options": ["a. Most test scores are 85.", "b. There are outliers in the data.", "c. The data is skewed to the right.", "d. The data is normally distributed."],
       "correct_option": "a"
@@ -395,51 +475,71 @@
 
 
     {
+      "quiz_no": 5,
+      "question_no": 1,
       "question": "What does the `rank()` method in pandas do?",
       "options": ["a. It calculates the mean of a column.", "b. It counts the number of unique values in a Series.", "c. It assigns a rank to each element in a Series.", "d. It computes the standard deviation of a DataFrame."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 5,
+      "question_no": 2,
       "question": "How can you select a single column from a DataFrame in pandas?",
       "options": ["a. Using the `extract()` method.", "b. Using the `select()` method.", "c. Using square brackets or the dot notation.", "d. Using the `get_column()` method."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 5,
+      "question_no": 3,
       "question": "What does the `apply()` method in pandas do?",
       "options": ["a. It creates a new DataFrame with random values.", "b. It applies a function to each element or column of a DataFrame or Series.", "c. It sorts the data in a DataFrame.", "d. It computes the mean of a DataFrame."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 5,
+      "question_no": 4,
       "question": "Which method can be used to compute the mean of a numeric column in a DataFrame?",
       "options": ["a. `average()`", "b. `calculate_mean()`", "c. `find_average()`", "d. `mean()`"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 5,
+      "question_no": 5,
       "question": "How can you sort a DataFrame by the values in a specific column in descending order?",
       "options": ["a. `sort_index()` with `ascending=True`", "b. `sort_values()` with `ascending=True`", "c. `sort_values()` with `ascending=False`", "d. `sort_index()` with `ascending=False`"],
       "correct_option": "c"
     },
     {
+      "quiz_no": 5,
+      "question_no": 6,
       "question": "What is the primary purpose of indexing in pandas?",
       "options": ["a. To remove rows from a DataFrame.", "b. To perform mathematical operations on data.", "c. To rearrange the order of columns in a DataFrame.", "d. To label and access data efficiently in Series and DataFrame."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 5,
+      "question_no": 7,
       "question": "What does skewness in a dataset indicate?",
       "options": ["a. The symmetry of the data distribution.", "b. The asymmetry of the data distribution.", "c. The spread or dispersion of the data.", "d. The presence of outliers in the data."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 5,
+      "question_no": 8,
       "question": "Which method can be used to drop specific entries (rows) from a DataFrame in pandas?",
       "options": ["a. `drop()`", "b. `discard()`", "c. `delete()`", "d. `remove()`"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 5,
+      "question_no": 9,
       "question": "Which pandas function is used to transform values in a Series based on a provided mapping (dictionary or function)?",
       "options": ["a. `alter()`", "b. `modify()`", "c. `map()`", "d. `transform()`"],
       "correct_option": "c"
     },
     {
+      "quiz_no": 5,
+      "question_no": 10,
       "question": "What is a Series in pandas?",
       "options": ["a. A one-dimensional labeled array.", "b. A two-dimensional labeled array.", "c. A multi-dimensional labeled array.", "d. A three-dimensional labeled array."],
       "correct_option": "a"
@@ -450,51 +550,71 @@
 
 
     {
+      "quiz_no": 6,
+      "question_no": 1,
       "question": "How can you check if a specific value exists in a pandas Series?",
       "options": ["a. Using the `has_value()` method.", "b. Using the `check_value()` method.", "c. Using the `contains()` method.", "d. Using the `isin()` method or boolean indexing."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 6,
+      "question_no": 2,
       "question": "In pandas, how can you find the unique values in a Series?",
       "options": ["a. Using the `get_unique()` function.", "b. Using the `unique()` method.", "c. Using the `count_values()` method.", "d. Using the `distinct()` method."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 6,
+      "question_no": 3,
       "question": "Skewness in a dataset indicates:",
       "options": ["a. The presence of outliers.", "b. The symmetry of the data distribution.", "c. The asymmetry of the data distribution.", "d. The spread or dispersion of data."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 6,
+      "question_no": 4,
       "question": "To save a DataFrame to a CSV file in pandas, you would use which method?",
       "options": ["a. `to_csv()`", "b. `write_to_csv()`", "c. `save_csv()`", "d. `export_csv()`"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 6,
+      "question_no": 5,
       "question": "What does kurtosis measure in a data distribution?",
       "options": ["a. The spread or dispersion of data.", "b. The tailness or peakedness of the distribution.", "c. The symmetry of the data.", "d. The presence of outliers."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 6,
+      "question_no": 6,
       "question": "What does the mean of a dataset represent?",
       "options": ["a. The presence of outliers in the data.", "b. The spread or dispersion of data.", "c. The asymmetry of the data distribution.", "d. The center or average value of data."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 6,
+      "question_no": 7,
       "question": "Which of the following is a common delimiter used in CSV files?",
       "options": ["a. Tab", "b. Space", "c. Comma", "d. Semicolon"],
       "correct_option": "c"
     },
     {
+      "quiz_no": 6,
+      "question_no": 8,
       "question": "Which pandas function is used to read data from a CSV file into a DataFrame?",
       "options": ["a. `load_csv()`", "b. `load_data()`", "c. `import_file()'", "d. `read_csv()`"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 6,
+      "question_no": 9,
       "question": "Which pandas method returns a Series with counts of unique values in a DataFrame column?",
       "options": ["a. `distinct_counts()`", "b. `unique_counts()`", "c. `count_unique()`", "d. `value_counts()`"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 6,
+      "question_no": 10,
       "question": "Which statistic measures the average distance of data points from the mean?",
       "options": ["a. Kurtosis", "b. Median", "c. Standard Deviation", "d. Skewness"],
       "correct_option": "c"
@@ -505,51 +625,71 @@
 
 
     {
+      "quiz_no": 7,
+      "question_no": 1,
       "question": "How can you remove duplicate rows from a DataFrame in pandas?",
       "options": ["a. Using the `drop_duplicates()` method.", "b. Using the `delete_duplicates()` method.", "c. Using the `remove_duplicates()` method.", "d. Using the `deduplicate()` method."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 7,
+      "question_no": 2,
       "question": "How can you replace specific values in a pandas DataFrame or Series?",
       "options": ["a. Using the `replace()` method.", "b. Using the `substitute()` method.", "c. Using the `replace_values()` method.", "d. Using the `apply_replacement()` method."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 7,
+      "question_no": 3,
       "question": "In pandas, what is the most common representation for missing data?",
       "options": ["a. NaN (Not a Number)", "b. Missing", "c. None", "d. Null"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 7,
+      "question_no": 4,
       "question": "In pandas, what is the purpose of the `groupby()` function?",
       "options": ["a. To group data based on a column or set of columns for aggregation.", "b. To create a new DataFrame from scratch.", "c. To merge two DataFrames.", "d. To apply a function to each element in a Series."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 7,
+      "question_no": 5,
       "question": "In pandas, what method can be used to apply a custom function to every element in a DataFrame or Series?",
       "options": ["a. `map()`", "b. `custom_apply()`", "c. `apply_function()`", "d. `transform()`"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 7,
+      "question_no": 6,
       "question": "What pandas method is used to fill missing values in a DataFrame with a specified value?",
       "options": ["a. `missing_fill()`", "b. `replace_missing()`", "c. `fill_missing()`", "d. `fillna()`"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 7,
+      "question_no": 7,
       "question": "What statistical technique can be used to detect outliers in a numerical dataset?",
       "options": ["a. Standardization", "b. Median Absolute Deviation (MAD)", "c. All of the above", "d. Z-score"],
       "correct_option": "c"
     },
     {
+      "quiz_no": 7,
+      "question_no": 8,
       "question": "When filtering outliers using the Z-score method, what is a common threshold for identifying outliers?",
       "options": ["a. Z-score greater than 3.0", "b. Z-score greater than 1.0", "c. Z-score greater than 0.5", "d. Z-score greater than 3.0"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 7,
+      "question_no": 9,
       "question": "When using the `map()` function in pandas, what is typically used to define the mapping?",
       "options": ["a. A list", "b. A lambda function", "c. A for loop", "d. A dictionary"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 7,
+      "question_no": 10,
       "question": "Which pandas method is used to check for missing values in a DataFrame?",
       "options": ["a. `find_nan()`", "b. `check_missing()`", "c. `missing_values()`", "d. `isna()`"],
       "correct_option": "d"
@@ -560,51 +700,71 @@
 
 
     {
+      "quiz_no": 8,
+      "question_no": 1,
       "question": "Which method in pandas can be used to replace values based on a condition in a DataFrame or Series?",
       "options": ["a. `replace()`", "b. `apply_replace()`", "c. `swap()`", "d. `conditional_replace()`"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 8,
+      "question_no": 2,
       "question": "When using the `map()` function in pandas, what happens if the mapping does not have a value for a particular element?",
       "options": ["a. An error is raised.", "b. The element is replaced with a NaN (missing) value.", "c. The mapping is ignored.", "d. The element remains unchanged."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 8,
+      "question_no": 3,
       "question": "In pandas, what method can be used to remove rows with any missing values from a DataFrame?",
       "options": ["a. `dropna()`", "b. `deletemissing()`", "c. `clean()`", "d. `removena()`"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 8,
+      "question_no": 4,
       "question": "What does the `agg()` function in pandas allow you to do?",
       "options": ["a. Perform aggregation operations on multiple columns simultaneously.", "b. Apply a custom function to a single column.", "c. Calculate the average of a DataFrame.", "d. Group data by a specific column."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 8,
+      "question_no": 5,
       "question": "When removing duplicate rows from a DataFrame, which rows are retained by default?",
       "options": ["a. The last occurrence of each duplicate.", "b. The first occurrence of each duplicate.", "c. All occurrences of duplicates.", "d. None of the duplicates."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 8,
+      "question_no": 6,
       "question": "In pandas, what is the purpose of the `pivot_table()` function?",
       "options": ["a. To reshape a DataFrame by converting columns into rows.", "b. To calculate the mean of a DataFrame.", "c. To delete rows with missing values.", "d. To group data and perform aggregation on numeric columns."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 8,
+      "question_no": 7,
       "question": "Which of the following methods is used to fill missing values in a DataFrame with the mean of the column?",
       "options": ["a. `mean_fill()`", "b. `replace_mean()`", "c. `fillna_mean()`", "d. `fillna()`"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 8,
+      "question_no": 8,
       "question": "In pandas, what is the purpose of the `applymap()` function?",
       "options": ["a. To apply a function to each row in a DataFrame.", "b. To apply a function to each element in a Series.", "c. To apply a function to each element in a DataFrame.", "d. To apply a function to each column in a DataFrame."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 8,
+      "question_no": 9,
       "question": "When filtering outliers using the IQR method, what is typically used as a threshold for identifying outliers?",
       "options": ["a. Values above the median", "b. Values below Q1 - 1.5 * IQR", "c. Values above Q3 + 1.5 * IQR", "d. Values within Q1 - 1.5 * IQR to Q3 + 1.5 * IQR"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 8,
+      "question_no": 10,
       "question": "What is the purpose of the IQR (Interquartile Range) method in outlier detection?",
       "options": ["a. To identify values that are below the lower quartile.", "b. To calculate the median of the dataset.", "c. To identify values that are outside a defined range.", "d. To calculate the standard deviation of the dataset."],
       "correct_option": "c"
@@ -615,51 +775,71 @@
 
 
     {
+      "quiz_no": 9,
+      "question_no": 1,
       "question": "How does Multiple Linear Regression differ from Simple Linear Regression?",
       "options": ["a. Multiple Linear Regression can only predict binary outcomes.", "b. Multiple Linear Regression can handle multiple independent variables.", "c. Multiple Linear Regression is less accurate.", "d. Multiple Linear Regression can handle only categorical variables."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 9,
+      "question_no": 2,
       "question": "In Simple Linear Regression, what is the dependent variable?",
       "options": ["a. The predictor variable.", "b. The constant term.", "c. The error term.", "d. The variable being predicted or estimated."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 9,
+      "question_no": 3,
       "question": "What is Multiple Linear Regression?",
       "options": ["a. A regression model with multiple dependent variables.", "b. A regression model with multiple independent variables.", "c. A regression model with a single independent variable.", "d. A regression model with a single dependent variable."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 9,
+      "question_no": 4,
       "question": "What is Supervised Learning?",
       "options": ["a. Learning from semi-structured data.", "b. Learning without any guidance.", "c. Learning with labeled data and making predictions on new, unseen data.", "d. Learning from reinforcement signals."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 9,
+      "question_no": 5,
       "question": "What does a correlation matrix help us understand?",
       "options": ["a. The presence of multicollinearity.", "b. The accuracy of a regression model.", "c. The number of significant features.", "d. The strength and direction of linear relationships between variables."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 9,
+      "question_no": 6,
       "question": "What is the goal of Simple Linear Regression?",
       "options": ["a. To find the correlation coefficient.", "b. To find a straight line that best fits the data.", "c. To perform clustering.", "d. To predict a categorical outcome."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 9,
+      "question_no": 7,
       "question": "In Polynomial Regression, what is the key difference compared to Simple Linear Regression?",
       "options": ["a. It can capture nonlinear relationships by introducing polynomial terms.", "b. It cannot be used for prediction.", "c. It can only fit linear relationships.", "d. It can handle multiple dependent variables."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 9,
+      "question_no": 8,
       "question": "What is the primary advantage of using Polynomial Regression over Simple Linear Regression?",
       "options": ["a. Ability to handle categorical variables.", "b. Simplicity in model interpretation.", "c. Ability to capture more complex, nonlinear relationships.", "d. Faster computation."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 9,
+      "question_no": 9,
       "question": "Unsupervised Learning is typically used for:",
       "options": ["a. Clustering and dimensionality reduction tasks.", "b. Regressions tasks.", "c. Predicting continuous values.", "d. Classification tasks."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 9,
+      "question_no": 10,
       "question": "What is the purpose of the F-statistic in Multiple Linear Regression?",
       "options": ["a. To calculate the correlation matrix.", "b. To test the overall significance of the model.", "c. To measure the strength of the linear relationship.", "d. To identify outliers."],
       "correct_option": "b"
@@ -670,76 +850,106 @@
 
 
     {
+      "quiz_no": 10,
+      "question_no": 1,
       "question": "When performing polynomial regression, what does increasing the degree of the polynomial typically result in?",
       "options": ["a. Decreased model flexibility.", "b. Overfitting the data.", "c. Improved model simplicity.", "d. Decreased model complexity."],
       "correct_option": "b"
     },
     {
+      "quiz_no": 10,
+      "question_no": 2,
       "question": "In a Multiple Linear Regression model, if the coefficient of determination (R-squared) is 0.85, what percentage of the variance in the dependent variable is explained by the independent variables?",
       "options": ["a. 42.5%", "b. Cannot be determined", "c. 85%", "d. 98%"],
       "correct_option": "c"
     },
     {
+      "quiz_no": 10,
+      "question_no": 3,
       "question": "In a Polynomial Regression model of degree 2, if the equation of the regression line is given as `y = 2x^2 + 3x + 1`, what is the predicted value of `y` when `x` is 4?",
       "options": ["a. 41", "b. 39", "c. None", "d. 31"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 10,
+      "question_no": 4,
       "question": "What is the primary goal of regression analysis?",
       "options": ["a. To classify data into different categories.", "b. To summarize data using descriptive statistics.", "c. To predict the relationship between independent and dependent variables.", "d. To test the equality of means in different groups."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 10,
+      "question_no": 5,
       "question": "What is the purpose of residual analysis in regression?",
       "options": ["a. To identify outliers and assess the model's assumptions.", "b. To calculate the coefficient of determination (R-squared).", "c. To estimate the model's parameters.", "d. To compute the p-value for the model."],
       "correct_option": "a"
     },
     {
+      "quiz_no": 10,
+      "question_no": 6,
       "question": "In simple linear regression, if the correlation coefficient (r) between the independent and dependent variables is -0.8, what does this indicate about the relationship?",
       "options": ["a. No relationship.", "b. Perfect relationship.", "c. Strong positive relationship.", "d. Strong negative relationship."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 10,
+      "question_no": 7,
       "question": "Which type of regression is most suitable for handling multicollinearity among independent variables?",
       "options": ["a. Logistic Regression.", "b. Linear Regression.", "c. Polynomial Regression.", "d. Lasso Regression."],
       "correct_option": "d"
     },
     {
+      "quiz_no": 10,
+      "question_no": 8,
       "question": "If the Mean Absolute Error (MAE) for a regression model is 5, and the Mean Squared Error (MSE) is 25, what is the Root Mean Squared Error (RMSE)?",
       "options": ["a. 1", "b. 25", "c. None", "d. 5"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 10,
+      "question_no": 9,
       "question": "In a Polynomial Regression model of degree 3, if the equation of the regression line is given as `y = 3x^3 - 5x^2 + 2x + 1`, what is the coefficient of the `x^2` term?",
       "options": ["a. 5", "b. -0.6", "c. 0.6", "d. -5"],
       "correct_option": "d"
     },
     {
+      "quiz_no": 10,
+      "question_no": 10,
       "question": "In logistic regression, what is the dependent variable typically representing?",
       "options": ["a. A continuous numeric value.", "b. A count of occurrences.", "c. A binary outcome or category."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 10,
+      "question_no": 11,
       "question": "In Simple Linear Regression, if the equation of the regression line is given as `y = 2x + 3`, what is the predicted value of `y` when `x` is 5?",
       "options": ["a. None", "b. 13", "c. 12", "d. 16"],
       "correct_option": "b"
     },
     {
+      "quiz_no": 10,
+      "question_no": 12,
       "question": "Given a Multiple Linear Regression model with three independent variables: `X1 = 4`, `X2 = 7`, and `X3 = 10`, and the coefficients: `β1 = 2`, `β2 = 3`, and `β3 = 1`, calculate the predicted value of the dependent variable `Y`.",
       "options": ["a. 27", "b. 31", "c. 29", "d. 23"],
       "correct_option": "c"
     },
     {
+      "quiz_no": 10,
+      "question_no": 13,
       "question": "You have a dataset with three variables: `X`, `Y`, and `Z`. The correlation coefficient between `X` and `Y` is -0.6, and between `Y` and `Z` is 0.8. What is the correlation coefficient between `X` and `Z`?",
       "options": ["a. -0.48", "b. None", "c. -1.33", "d. -0.75"],
       "correct_option": "a"
     },
     {
+      "quiz_no": 10,
+      "question_no": 14,
       "question": "Which of the following is NOT a common assumption of linear regression?",
       "options": ["a. Linearity.", "b. Normality of residuals.", "c. Multicollinearity.", "d. Independence of residuals."],
       "correct_option": "c"
     },
     {
+      "quiz_no": 10,
+      "question_no": 15,
       "question": "Which of the following metrics is used to evaluate the goodness of fit of a regression model?",
       "options": ["a. Mean Absolute Error (MAE).", "b. Confusion Matrix.", "c. Odds Ratio.", "d. Precision."],
       "correct_option": "a"
