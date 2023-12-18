@@ -9,7 +9,6 @@ with open("DataScience\\QuizDataBase.json", "r") as file:
 
 # Create a text file to log incorrect answers
 log_file = open("incorrect_answers.txt", "w")
-
 # Function to display the current question and choices
 def show_question():
     # Get the current question from the quiz_data list
